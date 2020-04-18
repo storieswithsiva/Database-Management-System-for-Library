@@ -1,0 +1,90 @@
+html, body {
+ background: url("../images/pattern.png") repeat;} 
+
+.button-image {
+  	width: 30px;
+  	height: 30px;
+  	padding: 5px;
+  	text-align: center;
+  }
+
+.header-images {
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.navBar {
+	text-align: center;
+}
+
+.table-title{
+  font-size: 19px;
+}
+
+.table-row {
+	cursor: pointer;
+}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+.table-striped {
+  background-color: #fff;
+}
+
+.btn-primary{
+  background-color: #009972;
+  border-color: #009972;
+}
+
+.btn-primary:hover{
+  color: #009972;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-primary:focus{
+  color: #fff;
+  background-color: #009972;
+  border-color: #009972;
+}
+
+.btn-primary:active{
+  color: #fff;
+  background-color: #009972;
+  border-color: #009972;
+}
+
+.btn-new-submit {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.navbar-header {
+  margin-top: 11px;
+}
+
+.btn-new-settings-re {
+  float: right;
+  bottom:0;  
+  margin-bottom:7px;
+}
+
+.btn-new-settings-gr {
+  float: left;
+  bottom:0;  
+  margin-bottom:7px;
+}
+
+hr {
+  border-width: 3px;
+  height:0;
+  -webkit-box-sizing:content-box;
+  -moz-box-sizing:content-box;
+  box-sizing:content-box
+}
