@@ -113,9 +113,9 @@ Statistics by Class:
 
 ### Project Reports
 
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Database-Management-System-for-Library/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf)
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Database-Management-System-for-Library/)
 
-- [Download](https://github.com/iamsivab/Database-Management-System-for-Library/blob/master/Sivasubramanian-Text%20Mining%20Report.pdf) for the report.
+- [Download](https://github.com/iamsivab/Database-Management-System-for-Library) for the report.
 
 ### Useful Links
 
