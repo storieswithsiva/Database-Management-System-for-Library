@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/DATABASE-MANAGEMENT-green.svg?style=for-the-badge)](https://github.com/iamsivab/Database-Management-System-for-Library) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/SQL-PHP-yellow.svg?style=for-the-badge)](https://github.com/iamsivab/Database-Management-System-for-Library) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
-#### The project is about Database Management System for Library using PHP,SQL, Bootstrap [#Project](https://github.com/iamsivab/Database-Management-System-for-Library) and applying quering Techniques.
+#### The project is about Database Management System for Library using PHP,SQL, Bootstrap [#Project](https://github.com/iamsivab/Database-Management-System-for-Library) and applying quering Techniques
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Database-Management-System-for-Library.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Database-Management-System-for-Library.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Database-Management-System-for-Library.svg?logo=python&style=social)](https://github.com/iamsivab)
 
